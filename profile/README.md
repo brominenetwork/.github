@@ -1,6 +1,6 @@
 ![Logo](https://cdn.jsdelivr.net/gh/brominenetwork/.github@2090212/profile/banner.png)
 
-we are a team of web developers, mainly focusing on proxys and bypassing school censor ship.
+## we are a team of web developers, mainly focusing on proxys and bypassing school censor ship.
 
 ----------------------
 
